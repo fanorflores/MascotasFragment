@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/mRefresh"
+        android:title="@string/mfav"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/fivstar"  />
+    <item
+        android:id="@+id/mContacto"
+        android:title="@string/mcontact"
+        android:orderInCategory="101">
+    </item>
+    <item
+        android:id="@+id/mAbout"
+        android:title="@string/mabou"
+        android:orderInCategory="102">
+    </item>
+</menu>

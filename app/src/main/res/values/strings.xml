@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social Mascotas</string>
+    <string name="plikes">0</string>
+    <string name="pname">Perrito</string>
+    <string name="mfav">Favoritos</string>
+    <string name="mcontact">Contacto</string>
+    <string name="mabou">Acerca de</string>
+    <string name="mascotaname">Nombre Mascota</string>
+    <string name="bio">Experto en diseño y desarrollo de  aplicaciones perrunas</string>
+
+</resources>
